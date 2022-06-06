@@ -4,7 +4,7 @@
 
 <h2 align="center">
 
-[Live Demo](https://alex-lar.github.io/web-editor/)
+[Live Demo](https://alex-lar.github.io/Web-Editor/)
 
 </h2>
 
